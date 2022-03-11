@@ -51,7 +51,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('Plugin example app 1'),
         ),
         body: Center(
           child: Text('Running on: $_platformVersion\n'),
